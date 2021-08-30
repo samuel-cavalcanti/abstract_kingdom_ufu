@@ -83,4 +83,8 @@ public static KingdomFactory makeFactory(KingdomType type) {
 }
 ```
 
+## Nova estrutura
 
+![image](doc/nova_estrutura.png)
+
+Muito mais fácil de encontrar as classes :)
